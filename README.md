@@ -9,7 +9,7 @@
       srcset="https://capsule-render.vercel.app/api?type=transparent&height=115&text=SO%20YEONG%20PARK&fontSize=50&fontColor=243447&fontAlignY=57"
     />
     <img
-      alt="So Yeong"
+      alt="So Yeong Park"
       src="https://capsule-render.vercel.app/api?type=transparent&height=115&text=SO%20YEONG%20PARK&fontSize=50&fontColor=243447&fontAlignY=57"
       width="100%"
     />
@@ -38,7 +38,7 @@ B.S. in AI & Software, 2024 – Present
 
 ## 🔬 Research Interests
 
-`Automatic Speech Recognition` · `Audio-Language Models` · `Speech & Audio Understanding` · `Reliable AI`
+`Automatic Speech Recognition` · `Audio-Language Models` · `Speech & Audio Understanding` · `Reliable LLMs`
 
 ---
 
@@ -67,3 +67,57 @@ Exploring **audio-text retrieval from long-form audio** using CLAP-based represe
 [View Repository →](https://github.com/green4849/dcase2026_task6_baseline)
 
 ---
+
+## 📚 Publications & Presentations
+
+### 2025
+
+**Lead Author · Korea Institute of Smart Media (KISM)**  
+*루브릭 기반 대학 학사규정에 대한 학습 데이터셋 설계 및 구축*
+
+- Presented at the **2025 KISM Fall Conference**
+- 🏅 **Best Paper Award**
+
+<br/>
+
+**Third Author · ICTCA 2025**  
+*Low-Latency Deep Learning-Based Denoising of Self-Generated Footstep Noise in Quadruped Robots for Remote Acoustic Situational Awareness*
+
+- Deep learning-based low-latency speech/audio denoising for quadruped robot environments
+- Studied real-time denoising performance and computational efficiency
+
+---
+
+## 🏆 Awards
+
+| Year | Award | Event / Organization |
+|:---:|---|---|
+| 2025 | 🥇 **Grand Prize** | AI Startup Idea Competition · Korea University College of Informatics |
+| 2025 | 🥇 **Grand Prize** | Hanshin AI·SW Festival · Hanshin University |
+| 2025 | 🏅 **Best Paper Award** | Korea Institute of Smart Media Fall Conference |
+
+---
+
+## 🚀 Selected Project
+
+### PD Semester Project
+
+**Kuo — Chat UI Prototype**
+
+Public-facing UI prototype developed as part of the PD semester project.
+
+[View UI Repository →](https://github.com/green4849/PD_class_UI)
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+</p>
