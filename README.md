@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <span style="font-size:15px;">
+  <span style="font-size:20px;">
     Automatic Speech Recognition · Audio-Language Models · Reliable AI
   </span>
 </p>
