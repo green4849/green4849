@@ -28,14 +28,6 @@
 
 ---
 
-## 🎓 Education
-
-**Hanshin University**  
-B.S. in AI & Software, 2024 – Present  
-**GPA: 4.36 / 4.50**
-
----
-
 ## 🔬 Research Interests
 
 `Automatic Speech Recognition` · `Audio-Language Models` · `Speech & Audio Understanding` · `Reliable LLMs`
@@ -47,8 +39,8 @@ B.S. in AI & Software, 2024 – Present
 ### Korean Speech Recognition with Qwen3-ASR
 
 - Evaluated **Qwen3-ASR 0.6B / 1.7B** across diverse Korean speech datasets.
-- Analyzed inference-time decoding settings and investigated **robust configurations that generalize across datasets**.
-- Compared recognition performance and inference efficiency under different decoding conditions.
+- Analyzed the impact of inference-time decoding configurations on recognition performance.
+- Investigated **robust inference settings that maintain performance across different speech domains**.
 
 ### Reliable LLM for Academic Regulation QA
 
@@ -58,33 +50,17 @@ B.S. in AI & Software, 2024 – Present
 
 ---
 
-## 🎧 Current Research
-
-### DCASE 2026 Task 6 — Language-based Audio Moment Retrieval
-
-Exploring **audio-text retrieval from long-form audio** using CLAP-based representations and Transformer-based retrieval models.
-
-[View Repository →](https://github.com/green4849/dcase2026_task6_baseline)
-
----
-
-## 📚 Publications & Presentations
+## 📚 Selected Publications
 
 ### 2025
 
-**Lead Author · Korea Institute of Smart Media (KISM)**  
-*루브릭 기반 대학 학사규정에 대한 학습 데이터셋 설계 및 구축*
-
-- Presented at the **2025 KISM Fall Conference**
-- 🏅 **Best Paper Award**
+**Rubric-based Training Dataset Design and Construction for University Academic Regulations**  
+`Lead Author` · Korea Institute of Smart Media (KISM) Fall Conference · 🏅 **Best Paper Award**
 
 <br/>
 
-**Third Author · ICTCA 2025**  
-*Low-Latency Deep Learning-Based Denoising of Self-Generated Footstep Noise in Quadruped Robots for Remote Acoustic Situational Awareness*
-
-- Deep learning-based low-latency speech/audio denoising for quadruped robot environments
-- Studied real-time denoising performance and computational efficiency
+**Low-Latency Deep Learning-Based Denoising of Self-Generated Footstep Noise in Quadruped Robots for Remote Acoustic Situational Awareness**  
+`Third Author` · ICTCA 2025
 
 ---
 
@@ -95,18 +71,6 @@ Exploring **audio-text retrieval from long-form audio** using CLAP-based represe
 | 2025 | 🥇 **Grand Prize** | AI Startup Idea Competition · Korea University College of Informatics |
 | 2025 | 🥇 **Grand Prize** | Hanshin AI·SW Festival · Hanshin University |
 | 2025 | 🏅 **Best Paper Award** | Korea Institute of Smart Media Fall Conference |
-
----
-
-## 🚀 Selected Project
-
-### PD Semester Project
-
-**Kuo — Chat UI Prototype**
-
-Public-facing UI prototype developed as part of the PD semester project.
-
-[View UI Repository →](https://github.com/green4849/PD_class_UI)
 
 ---
 
