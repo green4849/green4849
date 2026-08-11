@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/asr_waveform.gif" width="420" alt="ASR waveform"/>
+  <img src="asr_waveform.gif" width="420" alt="ASR waveform"/>
 </p>
 
 <p align="center">
