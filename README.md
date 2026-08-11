@@ -9,7 +9,7 @@
       srcset="https://capsule-render.vercel.app/api?type=transparent&height=115&text=SO%20YEONG%20PARK&fontSize=50&fontColor=243447&fontAlignY=57"
     />
     <img
-      alt="So Yeong Park"
+      alt="So Yeong"
       src="https://capsule-render.vercel.app/api?type=transparent&height=115&text=SO%20YEONG%20PARK&fontSize=50&fontColor=243447&fontAlignY=57"
       width="100%"
     />
