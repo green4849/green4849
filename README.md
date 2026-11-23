@@ -21,56 +21,80 @@
 </p>
 
 <p align="center">
-  <b>Automatic Speech Recognition</b> · Audio-Language Models · Reliable AI
+  <b>Speech Recognition</b> · Audio-Language Retrieval · LLM Evaluation<br/>
+  Undergraduate Researcher · SAI Lab, Hanshin University
+</p>
+
+<p align="center">
+  <a href="https://green4849.github.io/CV_v3/">CV website</a> · <a href="https://green4849.github.io/CV_v3/assets/Park_So_Yeong_CV_EN.pdf">CV (PDF)</a>
 </p>
 
 <br/>
 
 ---
 
-## 🔬 Research Interests
-
-`Automatic Speech Recognition` · `Audio-Language Models` · `Speech & Audio Understanding` · `Reliable LLMs`
-
----
-
-## 🧪 Research Experience
-
-### Korean Speech Recognition with Qwen3-ASR
-
-- Evaluated **Qwen3-ASR 0.6B / 1.7B** across diverse Korean speech datasets.
-- Analyzed the impact of inference-time decoding configurations on recognition performance.
-- Investigated **robust inference settings that maintain performance across different speech domains**.
-
-### Reliable LLM for Academic Regulation QA
-
-- Built a domain-specific dataset for **detecting and correcting unreliable LLM responses** grounded in university regulations.
-- Fine-tuned **Qwen2.5-7B-Instruct with QLoRA** for response evaluation and correction.
-- Studied hallucination detection, grounded response generation, and reliability evaluation for domain-specific LLM systems.
-
----
-
-## 📚 Selected Publications
-
-### 2025
-
-**Rubric-based Training Dataset Design and Construction for University Academic Regulations**  
-`Lead Author` · Korea Institute of Smart Media (KISM) Fall Conference · 🏅 **Best Paper Award**
-
-<br/>
-
-**Low-Latency Deep Learning-Based Denoising of Self-Generated Footstep Noise in Quadruped Robots for Remote Acoustic Situational Awareness**  
-`Third Author` · ICTCA 2025
-
----
-
 ## 🏆 Awards
 
-| Year | Award | Event / Organization |
+### Competitions & Hackathons
+
+| Date | Award | Event / Organization |
 |:---:|---|---|
-| 2025 | 🥇 **Grand Prize** | AI Startup Idea Competition · Korea University College of Informatics |
-| 2025 | 🥇 **Grand Prize** | Hanshin AI·SW Festival · Hanshin University |
-| 2025 | 🏅 **Best Paper Award** | Korea Institute of Smart Media Fall Conference |
+| Nov&nbsp;2025 | 🥇 **Grand Prize** | Hanshin University AI Festival, General Division |
+| Oct&nbsp;2025 | 🏅 **Top Excellence Award** | 2025 Elysian Gangchon AI Hackathon · SW-Centered University Council |
+| May&nbsp;2025 | 🥇 **Grand Prize** | AI/Blockchain Startup Competition · Korea University SW-Centered University Program (Team Lead) |
+
+### Paper Awards
+
+| Date | Award | Organization |
+|:---:|---|---|
+| Oct&nbsp;2026 | 🏅 **Outstanding Presentation Award** | Korean Society of Speech Sciences |
+| Jun&nbsp;2026 | 🏅 **Paper Encouragement Award** | Korean Association of Data Science |
+| Nov&nbsp;2025 | 🏅 **Outstanding Paper Award** | Korean Institute of Smart Media |
+| Aug&nbsp;2025 | 🏅 **Outstanding Paper Award** | DAEHAN Society of Industrial Management |
+
+---
+
+## 🚀 Projects
+
+### [TabPet](https://github.com/green4849/tabpet)
+
+- A tiny desktop pet for **macOS and Windows** that walks along Chrome's tab strip (or the Dock / taskbar).
+- Dances when music plays and dozes when you're away.
+- Bring your own characters: render a 3D model into a sprite sheet with the included tool.
+
+### [잇다, 오산 (Itda, Osan)](https://github.com/NiceTry3675/osan-kids-bridge)
+
+- A service that connects multicultural families in Osan with programs for their children, built with Team 다담.
+- **Guardian web** in easy Korean, Vietnamese, and Chinese, plus an **agency dashboard**.
+- Four AI agents for poster translation, grounded counseling, notice improvement, and program planning.
+- [Live demo](https://green4849.github.io/itda-osan-demo/)
+
+### [Kuo: Academic Regulation Chat UI](https://github.com/green4849/PD_class_UI)
+
+- Chat UI preview for an **LLM engine that answers questions about university academic regulations** (PD semester project, completed May 2026).
+- [Live preview](https://green4849.github.io/PD_class_UI/kuo-2026-ui-preview-7q4m9x/)
+
+### Seoul Public EV Charger Analysis
+
+- Forecasts **daytime (10:00–16:00) demand** at Seoul's public EV chargers by administrative dong with LightGBM.
+- Ranks chargers for relocation and proposes candidate public parking lots for each priority dong.
+- Private repository
+
+---
+
+## 🔬 Research
+
+At SAI Lab, Hanshin University (advised by Prof. Seon Man Kim), I ask *what do acoustic representations preserve for interpretation?*
+
+- **Audio moment retrieval** (ongoing): finding the part of a recording that matches a text query
+- **Qwen3-ASR on Korean speech**: model size and decoding settings across Korean corpora
+- **QA on university academic regulations**: datasets for grounded answers and error correction
+
+**Selected publication**  
+[Evaluation and Inference Parameter Analysis of Qwen3-ASR on Multiple Korean Speech Corpora](https://doi.org/10.7776/ASK.2026.45.5.582)  
+The Journal of the Acoustical Society of Korea, 45(5), 2026 · SCOPUS-indexed
+
+Full publication list → [CV website](https://green4849.github.io/CV_v3/#publications)
 
 ---
 
