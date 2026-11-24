@@ -40,7 +40,7 @@
 | Date | Award | Event / Organization |
 |:---:|---|---|
 | Nov&nbsp;2025 | 🥇 **Grand Prize** | Hanshin University AI Festival, General Division |
-| Oct&nbsp;2025 | 🏅 **Top Excellence Award** | 2025 Elysian Gangchon AI Hackathon · SW-Centered University Council |
+| Oct&nbsp;2025 | 🏅 **Top Excellence Award** | 2025 Elysian Gangchon AI Hackathon · SW-Centered University Council · [RealTalk](https://github.com/hackertonTeam19) |
 | May&nbsp;2025 | 🥇 **Grand Prize** | AI/Blockchain Startup Competition · Korea University SW-Centered University Program (Team Lead) |
 
 ### Paper Awards
@@ -56,6 +56,12 @@
 
 ## 🚀 Projects
 
+### [RealTalk: AI Relationship Simulator](https://github.com/hackertonTeam19)
+
+- 🏅 **Top Excellence Award**, 2025 Elysian Gangchon AI Hackathon (Team 19, two-day MVP).
+- Type a conversation, pick a mode (empathetic, direct, or logical), and get GPT emotion feedback with visualization and TTS voice.
+- Flask API with a static HTML/CSS/JS front end.
+
 ### [TabPet](https://github.com/green4849/tabpet)
 
 - A tiny desktop pet for **macOS and Windows** that walks along Chrome's tab strip (or the Dock / taskbar).
@@ -68,6 +74,13 @@
 - **Guardian web** in easy Korean, Vietnamese, and Chinese, plus an **agency dashboard**.
 - Four AI agents for poster translation, grounded counseling, notice improvement, and program planning.
 - [Live demo](https://green4849.github.io/itda-osan-demo/)
+
+### [자투리 (Jaturip)](https://github.com/GrandmotherTour)
+
+- An app that builds a short outing course for the spare time you have, built with Team GrandmotherTour.
+- Recommendations go through two LLM stages, then public-transit checks and rule-based validation.
+- React + Vite front end, Node back end, packaged as Android and iOS apps with Capacitor.
+- Private repository
 
 ### [Kuo: Academic Regulation Chat UI](https://github.com/green4849/PD_class_UI)
 
